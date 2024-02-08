@@ -2,7 +2,7 @@
 
 </script>
 
-<div class="sticky top-0 bg-primary flex justify-between py-3 px-4 z-20">
+<div class="bg-primary flex justify-between py-3 px-4 z-20">
     <div class="mt-1 text-white opacity-95 text-base font-bold uppercase">Aira</div>
     <div class="flex gap-2">
       <div class="p-1 rounded-sm text-white opacity-7 cursor-pointer hover:bg-gray-900">
